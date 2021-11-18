@@ -7,7 +7,7 @@ List of useful/helpful links
 
 ## Github Mk
 
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+~~https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf~~
 
 ## Commonmark Specification
 
